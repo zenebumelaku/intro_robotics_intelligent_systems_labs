@@ -1,3 +1,7 @@
+**Docker:** You can run this exercise in a ROS 2 Humble and Gazebo Harmonic container. To capture
+the required screenshots, use the container's desktop through VNC/noVNC and save them in the
+mounted `lab1_exercise/screenshots/` folder.
+
 **Program:** BSc in Software Engineering
 
 **Course:** Introduction to Robotics and Intelligent Systems
